@@ -2,3 +2,5 @@ This is an archive for as many old/OG/just generally hard to find cracking tools
 If you decide to run these, IT IS AS YOUR OWN RISK! It is common that these tools will be detected by most antiviruses as they are hacking tools, and ancient ones at that, so if you don't trust, don't run them. Period.
 
 I AM NOT HELD RESPONSIBLE FOR WHAT ANYONE DECIDES TO DO WITH THIS ARCHIVE! THIS IS FOR EDUCATIONAL AND ARCHIVING PURPOSES ONLY! I WANT TO KEEP THE PAST ALIVE :))
+
+ALL FILES ARE PASSWORDED WITH "1" BECAUSE GITHUB KEEPS DELETING THEM ON ME!
